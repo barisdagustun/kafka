@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e462b06-35e9-4ecd-be86-4d8c79138c1a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Contact</find>
+      <find>consume</find>
+      <find>contact</find>
+      <find>topicName</find>
+      <find>kstre</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1aLnG8tEKsCOI1T6yOTl34zNN8Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../kafka-json-consumer" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kafka.client.Run" />
+      <module name="Kafka-Json" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kafka.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e462b06-35e9-4ecd-be86-4d8c79138c1a" name="Default Changelist" comment="" />
+      <created>1586252325798</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586252325798</updated>
+      <workItem from="1586252328355" duration="314000" />
+      <workItem from="1586252680025" duration="1784000" />
+      <workItem from="1586254659130" duration="1602000" />
+      <workItem from="1586257626337" duration="1775000" />
+      <workItem from="1586259468100" duration="1803000" />
+      <workItem from="1586261312544" duration="1771000" />
+      <workItem from="1586263881373" duration="1764000" />
+      <workItem from="1586265752641" duration="1348000" />
+      <workItem from="1586269960288" duration="996000" />
+      <workItem from="1586271822627" duration="1776000" />
+      <workItem from="1586273698989" duration="1762000" />
+      <workItem from="1586275508528" duration="1243000" />
+      <workItem from="1586331196130" duration="592000" />
+      <workItem from="1586351601730" duration="596000" />
+      <workItem from="1586354212440" duration="597000" />
+      <workItem from="1586361511981" duration="595000" />
+      <workItem from="1586372738350" duration="598000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20916000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1586523725854">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586523725854" />
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom" timestamp="1586755608704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586755608704" />
+    <state width="1493" height="220" key="GridCell.Tab.0.center" timestamp="1586755608704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586755608704" />
+    <state width="1493" height="220" key="GridCell.Tab.0.left" timestamp="1586755608704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586755608704" />
+    <state width="1493" height="220" key="GridCell.Tab.0.right" timestamp="1586755608704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="220" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586755608704" />
+    <state x="463" y="144" width="609" height="536" key="find.popup" timestamp="1586886139488">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="463" y="144" width="609" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586886139488" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kafka/client/Run.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kafka/client/Consumer.java</url>
+          <line>44</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/kafka/client/Producer.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
